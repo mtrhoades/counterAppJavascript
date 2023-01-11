@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+    color: darkblue;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+button {
+    cursor: pointer;
+}
+
+.display p {
+    font-size: 6rem;
+    color: black;
+}
+
+.buttons {
+    padding-bottom: 40px;
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 45%;
+    border: 3px solid black;
+}
+
+.btns {
+    width: 35px;
+}
+
+#increment {
+    background-color: greenyellow;
+}
+
+#decrement {
+    background-color: red;
+}
+
+#reset {
+    background-color: lightblue
+}
+
